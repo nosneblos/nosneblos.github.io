@@ -1,0 +1,123 @@
+/*!
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+ */
+
+ body {
+ 	padding-top: 54px;
+ }
+
+ @media (min-width: 992px) {
+ 	body {
+ 		padding-top: 56px;
+ 	}
+ }
+
+ .bg-image-full {
+ 	background: no-repeat center center scroll;
+ 	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+ 	background-size: cover;
+ 	-o-background-size: cover;
+ }
+ .pics  {
+ 	background-position: bottom;
+ 	height:200px;
+ 	background-size: cover;
+ }
+ #kel {
+ 	background-position: top;
+ }
+ #sea {
+ 	background-position: top;
+ }
+ #phx {
+ 	background-position: center;
+ }
+ #ber {
+ 	background-position: top;
+ }
+ #hav {
+ 	background-position: center;
+ }
+ #hon {
+ 	background-position: center;
+ }
+ #san {
+ 	background-position: top;
+ }
+ .container {
+ 	
+
+ }
+ .lead {
+ }
+ .sol {
+ 	height:300px;
+ }
+ #solpic {
+ 	height:300px;
+ 	width:300px;
+
+ }
+ #insta {
+ 	display:block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width:10%;
+ 	margin-top: 4%;
+ }
+
+ #fb {
+ 	display:block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width:10%;
+ 	margin-top: 4%;
+ }
+
+ #twitter {
+ 	display:block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width:10%;
+ 	margin-top: 4%;
+ }
+ #link {
+ 	display:block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width:10%;
+ 	margin-top: 4%;
+ }
+ .social{
+ 	position: absolute;
+ }
+ #contact {
+ 	text-align: center;
+ 	margin-top: 4%;
+
+ 	
+ 	
+
+ }
+
+ footer { position:relative;
+ 	bottom:0;
+ 	width:100%;
+ }
+ #footerabout {
+ 	margin-top: 100%;
+ }
+ #footerhome {
+
+ 	position:relative;
+ }
+
+#footercontact {
+	position:relative;
+	margin-top:100%;
+}
+
+
